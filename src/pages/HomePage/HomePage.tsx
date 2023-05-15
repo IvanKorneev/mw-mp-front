@@ -7,7 +7,8 @@ const HomePage: React.FC = () => {
     <Helmet>
       <title>MW Marketplace</title>
     </Helmet>
-    <TestDiv/>
+    <title>Главная - MW Marketplace</title>
+    Hey yey
   </>
 }
 export default HomePage;
