@@ -1,5 +1,4 @@
 import PublicRoutes from "./routes/PublicRoutes";
-import PrivateRoutes from "./routes/PrivateRoutes";
 import {AppStyles, Footer} from "./App.styled";
 import {Suspense} from "react";
 import Header from "./features/Header";
