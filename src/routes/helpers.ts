@@ -2,6 +2,7 @@
 export const pathsPublic: { [k: string]: string } = {
   home: '/',
   productDetails:'/product/:idOrSlug',
+  login:'/login'
 }
 
 export const pathsPrivate: { [k: string]: string } = {
